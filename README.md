@@ -8,4 +8,4 @@ I like to play final nights,fnaf 1,2,3,4,sl,6,ucn,ultra ucn and minecraft
 Frijolitosay/Frijolitosay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-.
+
